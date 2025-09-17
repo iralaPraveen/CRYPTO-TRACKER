@@ -9,8 +9,8 @@ Stay up-to-date with the latest price trends in popular cryptocurrencies. The ap
 ## 🚀 Features
 
 - 📈 **24-Hour Exchange Rate Updates**
-- 💹 **Live Line Graph** (via Google Charts) showing recent price trends
-- 🌍 **Multi-Currency Support**: View prices in **INR**, **USD**, and **EUR**
+- 📊 **Live Line Graph** (via Google Charts) showing recent price trends
+- 💱 **Multi-Currency Support**: View prices in **INR**, **USD**, and **EUR**
 - 🔄 **Auto-fetches data from API** for live updates
 
 ---
@@ -29,9 +29,7 @@ Stay up-to-date with the latest price trends in popular cryptocurrencies. The ap
 
 ### ✅ Prerequisites
 
-Ensure you have the following installed on your machine:
-
-- Node.js & npm
+- Node.js and npm installed
 - Git (optional, for cloning)
 
 ### 📥 Clone the Repository
