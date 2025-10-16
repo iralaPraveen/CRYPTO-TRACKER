@@ -8,5 +8,10 @@ features :-
   shows exchange rate in different currencies [INR,USD,EUR}.
 
 # Cloning into your local machine:
-   npm install
-   The server is running on the localhost 5173
+   git clone the entire.
+   These project is developed using the (Node 20 LTS version)
+   enter command npm install
+   after entering npm install enter npm run dev
+   you will see the server is running on the localhost:51733
+
+   
